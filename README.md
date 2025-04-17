@@ -1,31 +1,48 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar Singh</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Python Dev | Automation Ninja</h3>
+<h3 align="center">💻 Python Developer | 🧠 AI/ML Enthusiast | ⚙️ Automation Explorer</h3>
 
-- 🤖 Working on AI-Powered Projects  
-- 📚 Learning Deep Learning & Generative AI  
-- 💼 Seeking impactful roles in ML, Python, and Quant Trading  
-- 🛠️ Tech I work with: Python, Flask, FastAPI, SQL, Redis, Git, Latenode, Google Sheets API  
-
----
-
-### 🧠 Tech Stack
-<p align="left"> <!-- Python Core --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <!-- ML/DL Frameworks --> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <!-- Data Handling --> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <!-- NLP --> <img src="https://img.shields.io/badge/NLP-006400?style=for-the-badge&logo=spacy&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black"/> <!-- Automation / Workflow --> <img src="https://img.shields.io/badge/Latenode-ffcc00?style=for-the-badge&logo=data&logoColor=black"/> <!-- Bonus: Cloud & Containers (ML-Friendly) --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> </p>
----
-
-### 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+- 🔭 I’m currently building: **AI-powered automation and trading systems**
+- 🌱 I’m learning: **NLP, Deep Learning, and AI Agents**
+- 💬 Ask me about: **Python, Automation, AI, or cool tech ideas**
+- 📫 Reach me at: **[hk43580@gmail.com](mailto:hk43580@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/harsh0612/)**
 
 ---
 
-### 📫 Connect With Me
-<p align="center">
-  <a href="mailto:hk43580@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harsh0612/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+### 🚀 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+### 📊 GitHub Stats
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh43580&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh43580&layout=compact&theme=radical)
+
+---
+
+### 🎮 Currently Learning Through Projects
+
+- AI-powered Resume Bot 🤖  
+- ML-powered Trading Bot 📈  
+- NLP-based Context Systems 🧠
+
+---
+
+### 🎯 Let's Connect!
+
+<p align="left">
+  <a href="mailto:hk43580@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harsh0612/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
