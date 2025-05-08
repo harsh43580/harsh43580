@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently building: **AI-powered automation and trading systems**
-- 🌱 I’m learning: **NLP, Deep Learning, and AI Agents**
+- 🌱 I’m learning: **Deep Learning, Gen AI and AI Agents**
 - 💬 Ask me about: **Python, Automation, AI, or cool tech ideas**
 - 📫 Reach me at: **[hk43580@gmail.com](mailto:hk43580@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/harsh0612/)**
 
